@@ -37,7 +37,6 @@
 
  ##
     
-<!-- ![ilannahtaggyn snake gif](https://github.com/ilannahtaggyn/ilannahtaggyn/blob/output/github-contribution-grid-snake.svg) -->
-  
+![snake gif](https://github.com/lannahTaggyn/IlannahTaggyn/blob/output/github-contribution-grid-snake.svg)  
   
   
