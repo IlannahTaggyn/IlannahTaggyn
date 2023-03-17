@@ -35,8 +35,7 @@
   
 </div>
 
- ##
+
     
-![snake gif](https://github.com/lannahTaggyn/IlannahTaggyn/blob/output/github-contribution-grid-snake.svg)  
   
   
